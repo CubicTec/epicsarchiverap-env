@@ -30,7 +30,7 @@ body {
 
 .pageheader {
     height: 96px;
-    background-color: #00313C;
+    background-color: #002f7a;
 }
 
 
@@ -51,15 +51,15 @@ body {
 /* site_navbar */
 
 .navbar{
-    background-color: #00313C;
+    background-color: #002f7a;
 }
 
 .nav {
     border-top-style: solid;
-    border-top-color: #007681;
+    border-top-color: #0060FA;
     border-top-width: 0.01em;
     border-bottom-style: solid;
-    border-bottom-color: #007681;
+    border-bottom-color: #0060FA;
     border-bottom-width: 0.01em;
 }
 
@@ -93,7 +93,7 @@ ul.mainmenu li a {
 
 /* Change background color of links on hover */
 ul.mainmenu li a:hover {
-    background-color:#007681;
+    background-color:#0060FA;
 }
 
 ul.mainmenu li a.active {
